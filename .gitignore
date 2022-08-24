@@ -1,0 +1,7 @@
+.vs/
+.vs/AspNetIdentityDemo
+AspNetIdentityDemo.API/bin/
+AspNetIdentityDemo.API/obj/
+AspNetIdentityDemo.Shared/bin/
+AspNetIdentityDemo.Shared/obj/
+AspNetIdentityDemo/Properties
