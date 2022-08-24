@@ -8,7 +8,7 @@
 <li>Microsoft AspNet Core Identity (JWT Authentication)</li>
 <li>Swagger</li>
 <li>Serilog</li>
-<li>Twillio SendGrid</li>
+<li>Twillio SendGrid Email API</li>
 </ul>
 
 ## Summary
